@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+deepface
+web3
+google-search-results
+python-multipart
+pydantic-settings
+tf-keras
+
+playwright
+beautifulsoup4
+Pillow
