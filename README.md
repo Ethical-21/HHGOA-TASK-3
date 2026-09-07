@@ -1,6 +1,6 @@
-# 🔍 IdentiChain: Decentralized Identity & Verification Platform
+# 🔍 Decentralized Identity & Verification Platform
 
-IdentiChain is an advanced, end-to-end OSINT and blockchain pipeline. It takes a user's facial scan, identifies their online digital footprint via hybrid reverse image search (Google Lens + Bing), verifies the identity using deep learning facial recognition, and securely anchors the discovered identity hash onto a local Ethereum blockchain to establish an immutable, verifiable record.
+This is an advanced, end-to-end OSINT and blockchain pipeline. It takes a user's facial scan, identifies their online digital footprint via hybrid reverse image search (Google Lens + Bing), verifies the identity using deep learning facial recognition, and securely anchors the discovered identity hash onto a local Ethereum blockchain to establish an immutable, verifiable record.
 
 Designed with a premium Glassmorphism UI, it bridges the gap between web-scale open-source intelligence (OSINT) and decentralized cryptographic trust.
 
